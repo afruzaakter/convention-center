@@ -17,10 +17,3 @@ font-family: 'Poppins', sans-serif;
     background-color: #da70d6;
 }
 
-.card-img{
-    overflow: hidden;
-}
-.card-img:hover img{
-    transform: scale(1.5);
-    transition: transform 2s ease-in-out;
-}
