@@ -10,3 +10,13 @@ font-family: 'Poppins', sans-serif;
     font-family: 'Abril Fatface', cursive;
   
 }
+.custom-color{
+    color: #da70d6;
+}
+.pricing-bg-color{
+    background-color: #da70d6;
+}
+
+.background-op{
+    background-color: rgba(0, 0, 0, 0.8);
+}
